@@ -1,0 +1,108 @@
+/* Navbar section */
+#navbar {
+  position:sticky;
+  top:0;
+  z-index:10;
+}
+
+/* Image section */
+.w3-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.w3-padding-large {
+  padding: 12px 24px;
+}
+
+.w3-display-bottomleft {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.heading {
+  letter-spacing: 5px;
+  padding-left: 20%;
+  font-family: 'Playfair Display', serif;
+}
+
+/* about section */
+.about-image {
+  padding-left: 80px;
+  width: 750px;
+  height: 800px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.tradition {
+  font-weight: 250;
+}
+
+.about-content {
+  padding: 60px;
+
+}
+
+.content-grey {
+  color: #7F8487;
+}
+
+.hr {
+border: 0 0 200px ;
+color: #7F8487;
+border-top: dotted;
+width:60%;
+}
+
+/* Menu section */
+.menu-heading {
+  padding-left: 2%;
+  letter-spacing: 3px;
+  font-family: 'Playfair Display', serif;
+}
+
+.menu-text {
+  padding-top: 4%;
+  text-align: center;
+}
+
+.menu-image {
+  padding: 10% 10%;
+  height: 800px;
+  width: 700px;
+}
+
+/* Contact section */
+.contact-section {
+  text-align: left;
+  padding-left: 135px;
+  padding-right: 135px;
+}
+
+.contact-address{
+  color: #50577A;
+}
+
+.form-input {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+
+}
+
+/* Footer Section */
+
+.footer{
+  background-color: #B2B2B2;
+  padding: 3%;
+  text-align: center;
+
+}
+
+
+/* Media section */
+@media query (max-width:700px){
+
+}
